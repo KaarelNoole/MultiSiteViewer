@@ -7,7 +7,7 @@
         xmlns:platformUiControls="clr-namespace:VideoOS.Platform.UI.Controls;assembly=VideoOS.Platform"                              
         xmlns:platformclient="clr-namespace:VideoOS.Platform.Client;assembly=VideoOS.Platform"
         mc:Ignorable="d"
-        Title="MultiSiteViewer Application (sample only - not production code)" Height="700" Width="800">
+        Title="MultiSiteViewer " Height="700" Width="800">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="auto"/>
